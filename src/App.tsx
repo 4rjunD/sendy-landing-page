@@ -3,7 +3,7 @@ import Testimonials from "@/components/ui/testimonials"
 import PricingSimple from "@/components/blocks/pricing"
 import { Features } from "@/components/blocks/features-4"
 import CallToAction from "@/components/ui/call-to-action"
-import FlickeringGrid from "@/components/ui/flickering-grid"
+import { FlickeringGrid } from "@/components/ui/flickering-grid"
 
 function App() {
   return (
