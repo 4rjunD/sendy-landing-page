@@ -58,7 +58,7 @@ export default function PricingSimple() {
   ];
 
   return (
-    <section className="py-16 md:py-32 bg-gray-50/80 backdrop-blur-sm">
+    <section className="py-16 md:py-32 bg-transparent">
       <div className="mx-auto max-w-7xl px-6">
         <div className="text-center space-y-4 mb-12">
           <h2 className="text-4xl font-semibold lg:text-5xl">Simple, Transparent Pricing</h2>

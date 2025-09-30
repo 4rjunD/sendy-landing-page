@@ -35,7 +35,7 @@ function Hero() {
   };
 
   return (
-    <div className="w-full bg-gradient-to-br from-pink-50 to-white/80">
+    <div className="w-full bg-transparent">
       <div className="container mx-auto px-4">
         <div className="flex gap-6 py-12 md:py-16 lg:py-24 items-center justify-center flex-col">
           <div>

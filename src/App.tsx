@@ -15,8 +15,8 @@ function App() {
           squareSize={4}
           gridGap={6}
           color="rgb(255, 107, 157)"
-          maxOpacity={0.15}
-          flickerChance={0.2}
+          maxOpacity={0.3}
+          flickerChance={0.3}
         />
       </div>
       
